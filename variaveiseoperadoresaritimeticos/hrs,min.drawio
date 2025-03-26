@@ -28,7 +28,7 @@
         <mxCell id="uv2ElzeNCxNi1AjGGgd7-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uv2ElzeNCxNi1AjGGgd7-8" value="mnts =60&amp;nbsp;&lt;div&gt;seg =60&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uv2ElzeNCxNi1AjGGgd7-8" value="1 hora = 60mnts&amp;nbsp;&lt;div&gt;1mnts = 60seg&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="285" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uv2ElzeNCxNi1AjGGgd7-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,7 +39,7 @@
             <mxPoint x="380" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uv2ElzeNCxNi1AjGGgd7-12" value="conversão = hora/(mnts *60)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uv2ElzeNCxNi1AjGGgd7-12" value="conversão = hora(mnts /60)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="425" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uv2ElzeNCxNi1AjGGgd7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uv2ElzeNCxNi1AjGGgd7-14" target="uv2ElzeNCxNi1AjGGgd7-17">
